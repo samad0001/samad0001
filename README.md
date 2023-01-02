@@ -10,7 +10,7 @@ I'm Samad From Pakistan ,and I do Development on Websites, I really enjoy in lea
 * 📱 React Native
 * 💻 HTML, CSS, JS
 
-- 🔭 I’m currently working on SAYLANI MASS IT 
+- 🔭 I’m currently studying at SAYLANI MASS IT 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/samad0001)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdul-samad-716917258//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100013259624500)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ab_sam001)  
